@@ -6,9 +6,5 @@ The game is run from the rungame.py program. Agent.py and maze.py are placed in 
 Run the game with the following command
 python3 ./rungame.py
 
-Please review and let me know the next steps at your earliest convenience. 
-
-Thanks and regards,
-Vijai
 
 
